@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["create_semantic_tokens",""],["get_named_parameters","`is_main_pattern` is true if this contains the function name."],["semantic_tokens_legend",""]],"struct":[["RawSemanticToken",""],["SEMANTIC_TOKEN_LEGEND",""],["SEMANTIC_TOKEN_LEGEND_VEC",""],["SemanticExprConditions",""],["SemanticTokenGenerator",""]]});

@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["ConstantValue",""],["ExprPatP","Represents either an expression or a pattern."]],"struct":[["ConstructDataFields",""]]});

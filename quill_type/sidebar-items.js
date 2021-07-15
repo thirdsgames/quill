@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["PrimitiveType","The list of all core types, that are trivially supported by any LLVM output platform."],["Type",""]],"struct":[["BorrowCondition","Represents the loan conditions of a borrowed value."],["Lifetime",""]]});

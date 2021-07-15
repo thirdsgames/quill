@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["check",""]],"struct":[["ForeignDeclaration","Represents a declaration that may be in a different source file."],["TypeVariablePrinter","A utility for printing type variables to screen. Works like the Display trait, but works better for printing type variable names."],["VisibleNames",""]]});
